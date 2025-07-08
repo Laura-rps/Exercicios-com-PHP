@@ -1,0 +1,1 @@
+Este repositório contém exercícios em PHP que criei para estudar e praticar a linguagem. É um espaço pessoal para organizar meus códigos e fixar conceitos.
